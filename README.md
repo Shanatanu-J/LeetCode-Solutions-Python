@@ -1,2 +1,2 @@
 ﻿# LeetCode-Solutions-Python
- This Repo contains the solution of all the questions on leetcode.
+ This Repository contains the solution of all the questions on leetcode, written in Python 3.
